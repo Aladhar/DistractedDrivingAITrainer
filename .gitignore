@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data/model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.zip
+data/
+datasets/
